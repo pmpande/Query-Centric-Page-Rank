@@ -1,0 +1,26 @@
+Searching for Query: Data Mining
+Rank   Author                  Score
+1      Philip S. Yu            0.07200743832842785
+2      Christos  Faloutsos            0.0418010683635872
+3      Johannes  Gehrke            0.03630839550109777
+4      Wei-Ying  Ma            0.034630413112498835
+5      Heikki  Mannila            0.03407794407279299
+6      Rakesh  Agrawal            0.02972443837618565
+7      Dimitrios  Gunopulos            0.027698972932267595
+8      Raghu  Ramakrishnan            0.026399643836404637
+9      Eamonn  Keogh            0.026087443009315113
+10      Hans-Peter  Kriegel            0.025576233603423894
+
+
+Searching for Query: Information Retrieval
+Rank   Author                  Score
+1      Wei-Ying  Ma            0.08270201262255439
+2      Christos  Faloutsos            0.026305811583712292
+3      Bill N. Schilit            0.025677339590827006
+4      Divesh  Srivastava            0.02550846006531699
+5      Rajeev  Rastogi            0.021049506657536896
+6      Hans-Peter  Kriegel            0.020682565829533747
+7      Chengxiang  Zhai            0.017301766629181495
+8      Bruce  Croft            0.017031970335672747
+9      Dimitrios  Gunopulos            0.016979219617930873
+10      Nick  Koudas            0.01687681733358586
